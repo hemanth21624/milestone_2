@@ -1,0 +1,42 @@
+.about-us-container {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.about-us-header {
+  text-align: center;
+  padding: 20px;
+  background-color: #e0f7fa;
+}
+
+.about-us-logo {
+  width: 150px;
+}
+
+.team-members {
+  display: flex;
+  justify-content: space-around;
+}
+
+.team-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.about-us-footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #e0e0e0;
+}
+
+.social-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
